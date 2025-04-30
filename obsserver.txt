@@ -1,3 +1,1 @@
-pattern=40 53 48 81 EC ? ? ? ? 49 8B C1
-version=1.0
-valid=true
+CreateMoveUserCmd=48 8B C4 4C 89 40 ? 48 89 48 ? 55 53 57
